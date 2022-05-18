@@ -83,12 +83,12 @@ author:
   name             : "Ričards Marcinkevičs"
   avatar           : "ricards_portrait_website.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Zürich, Switzerland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.ch/citations?user=XcxXOJsAAAAJ&hl=en"
+  email            : "ricards.marcinkevics@inf.ethz.ch"
+  researchgate     : "https://www.researchgate.net/profile/Ricards-Marcinkevics"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "i6092467"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://ch.linkedin.com/in/ricards-marcinkevics-668568106"
+  orcid            : "https://orcid.org/0000-0001-8901-5062"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "RMartsinkevich"
   vine             :
   weibo            :
   xing             :
