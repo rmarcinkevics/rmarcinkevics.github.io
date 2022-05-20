@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Ah yes, I've been expecting you! Anyways, my name is Ričards Marcinkevičs (rɪʧɑrdz mɑrtsɪnkɛvɪʧ; Russian: Ричард Марцинкевич).
+Ah yes, I've been expecting you! Anyways, my name is Ričards Marcinkevičs (rɪʧɑrdz mɑrtsɪnkɛvɪʧ; Russian: Ричард Марцинкевич). I was born in [Rīga, Latvia](images/Riga.png) in 1995. 
