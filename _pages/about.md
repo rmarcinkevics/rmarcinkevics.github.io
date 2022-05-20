@@ -10,4 +10,4 @@ redirect_from:
 
 Ah yes, I've been expecting you! 
 
-Anyways, my name is Ričards Marcinkevičs (rɪʧɑrdz mɑrtsɪnkɛvɪʧ; Russian: *Ричард Марцинкевич*). I was born in [Rīga, Latvia](images/Riga.png) in 1995. I am a PhD student at the [Institute for Machine Learning](https://ml.inf.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html). 
+Anyways, my name is Ričards Marcinkevičs (rɪʧɑrdz mɑrtsɪnkɛvɪʧ; Russian: *Ричард Марцинкевич*). I was born in [Rīga, Latvia](images/Riga.png) in 1995. Currently, I am a PhD student at the [Institute for Machine Learning](https://ml.inf.ethz.ch/), [Department of Computer Science](https://inf.ethz.ch/), [ETH Zürich](https://ethz.ch/en.html). 
