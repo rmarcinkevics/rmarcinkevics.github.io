@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Ah yes, I've been expecting you! 
+Ah yes, I've been expecting you! Anyways, my name is Ričards Marcinkevičs (rɪʧɑrdz mɑrtsɪnkɛvɪʧ; Russian: Ричард Марцинкевич).
