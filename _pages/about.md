@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<BODY ALINK="#0e75af">
 
 Ah yes, I've been expecting you! 
 
