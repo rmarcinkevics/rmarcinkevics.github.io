@@ -1,22 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: https://scholar.google.ch/citations?user=XcxXOJsAAAAJ&hl=en
     
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: https://rmarcinkevics.github.io/files/CV_RMarcinkevics_short.pdf
