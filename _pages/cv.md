@@ -27,7 +27,7 @@ framesrc = urlsrc;
 }
 
 // make an interval every second to make sure that the src is correct.
-setInterval("ckframe()",500);
+setInterval("ckframe()",1000);
 </script>
 
 <iframe src="https://docs.google.com/viewer?url=https://rmarcinkevics.github.io/files/CV_RMarcinkevics_short.pdf&embedded=true" style="width:100%; height:650px;" frameborder="0"><p>Your web browser doesn't have a PDF plugin.
