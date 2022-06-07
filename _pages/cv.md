@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<object src="https://docs.google.com/viewer?url=https://rmarcinkevics.github.io/files/CV_RMarcinkevics_short.pdf&embedded=true" style="width:100%; height:650px;" frameborder="0"><p>Your web browser doesn't have a PDF plugin.
+<iframe src="https://docs.google.com/viewer?url=https://drive.google.com/drive/folders/1a_NLReD6cNZwJGDbu-im-UdJMBCIzqf5?usp=sharing&embedded=true" style="width:100%; height:650px;" frameborder="0"><p>Your web browser doesn't have a PDF plugin.
   Instead you can <a href="https://rmarcinkevics.github.io/files/CV_RMarcinkevics_short.pdf" style="color: black; text-decoration: underline;text-decoration-style: dotted;">click here</a> to
-  download the PDF file.</p></object>
+  download the PDF file.</p></iframe>
