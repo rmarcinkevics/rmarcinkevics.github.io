@@ -9,6 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<object data="/https://rmarcinkevics.github.io/files/Master_Thesis_RMarcinkevics.pdf" type="application/pdf" width="700px" height="500px">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://rmarcinkevics.github.io/files/Master_Thesis_RMarcinkevics.pdf">Download PDF</a>.</p>
-</object>
+<iframe src="https://docs.google.com/viewer?url=https://rmarcinkevics.github.io/files/Master_Thesis_RMarcinkevics.pdf&embedded=true" style="width:100%; height:650px;" frameborder="0"></iframe>
