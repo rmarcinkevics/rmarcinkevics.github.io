@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://scholar.google.ch/citations?user=XcxXOJsAAAAJ&hl=en
+    url: /publications/
     
   - title: "CV"
     url: https://rmarcinkevics.github.io/files/CV_RMarcinkevics.pdf
