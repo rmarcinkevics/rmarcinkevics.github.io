@@ -1,0 +1,14 @@
+---
+title: "Debiasing Deep Chest X-Ray Classifiers using Intra- and Post-processing Methods"
+collection: publications
+permalink: /publication/2022-08-26-prune
+excerpt: 'This work presents two intra-processing techniques based on fine-tuning and pruning an already-trained neural network that can help achieve group fairness of deep medical image classifiers when deploying them in domains with different fairness considerations and constraints.'
+date: 2021-10-26
+venue: '7th Machine Learning for Healthcare Conference, MLHC 2022'
+paperurl: 'http://rmarcinkevics.github.io/files/2022-08-26-prune.pdf'
+citation: 'Marcinkevičs, R., Ozkan, E., & Vogt, J.E. (2022). Debiasing Deep Chest X-Ray Classifiers using Intra- and Post-processing Methods. <i>Proceedings of the 7th Machine Learning for Healthcare Conference</i>, in <i>Proceedings of Machine Learning Research</i> 182:504-536.'
+---
+
+[Download paper here](http://rmarcinkevics.github.io/files/2022-08-26-prune.pdf)
+
+Recommended citation: Marcinkevičs, R., Ozkan, E., & Vogt, J.E.. (2022). Debiasing Deep Chest X-Ray Classifiers using Intra- and Post-processing Methods. <i>Proceedings of the 7th Machine Learning for Healthcare Conference</i>, in <i>Proceedings of Machine Learning Research</i> 182:504-536.
