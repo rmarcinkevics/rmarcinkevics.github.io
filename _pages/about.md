@@ -16,6 +16,6 @@ Before pursuing a doctoral degree, I obtained an M.Sc. in Statistics at the <a h
 
 At the moment, I am broadly interested in **interpretable** and **explainable machine learning**. In particular, I would like to understand what are the inductive biases for **neural networks** that may render the model interpretable in specific use-cases and how such inductive biases may be incorporated into the model? Moreover, how can we leverage interpretations and explanations to obtain *actionable* insights about the data or the model itself, for instance, to perform scientific discovery or make our classifiers fairer and more robust? From the application perspective, I work on **time series** and **survival analysis** and enjoy participating in interdisciplinary projects and leveraging ML methods to analyse **biomedical data**.
 
-<p style="color:red;">Starting from September 2024, I will be **on the job market**.  I would love to hear about new opportunities!</p>
+<p style="color:red;">Starting from September 2024, I will be <b>on the job market</b>.  I would love to hear about new opportunities!</p>
 
 In my leisure time, I enjoy learning about classic Russian literature and ancient history. Like many Latvians, I love contemplating the meaning of life by the <a href="images/baltic_sea.jpg" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Baltic Sea</a> and occasional <a href="images/angling.jpg" style="color: black; text-decoration: underline;text-decoration-style: dotted;">angling</a>.
